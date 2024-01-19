@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Settings>
+   <VersionInfoSection>/My Flash Disk/NAVIGON/version.xml</VersionInfoSection>
+   <VersionInfoKeyPlatform>/config/software/platform</VersionInfoKeyPlatform>
+   <VersionInfoKeyStyle>/config/software/style</VersionInfoKeyStyle>
+   <VersionInfoKeyBrand>/config/software/brand</VersionInfoKeyBrand>
+   <VersionInfoKeyVIN>/config/software/vin</VersionInfoKeyVIN>
+</Settings>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<AppCom>
+  <Application Name="VwBeamLight">
+    <Exe>\My Flash Disk\Apps\VwBeamLight\VwBeamLight.exe</Exe>
+    <Version>\My Flash Disk\Apps\VwBeamLight\version.xml</Version>
+    <WindowName>VwBeamLight</WindowName>
+    <ClassName>VwBeamLight</ClassName>
+    <Port>27105</Port>
+
+    <IsVisible>1</IsVisible>
+    <Autostart>0</Autostart>
+    <IconName>\My Flash Disk\Apps\VwBeamLight\icon_highbeam-app.png</IconName>
+    
+		<AppName lc="ara-ARA">High beam</AppName>
+		<AppName lc="bul-BGR">High beam</AppName>
+		<AppName lc="afr-ZAF">High beam</AppName>
+		<AppName lc="eng-GBR">High beam</AppName>
+		<AppName lc="eng-USA">High beam</AppName>
+		<AppName lc="dan-DNK">High beam</AppName>
+		<AppName lc="cze-CZE">High beam</AppName>
+		<AppName lc="dut-BEL">High beam</AppName>
+		<AppName lc="dut-NLD">High beam</AppName>
+		<AppName lc="fin-FIN">High beam</AppName>
+		<AppName lc="fre-CAN">High beam</AppName>
+		<AppName lc="fre-FRA">High beam</AppName>
+		<AppName lc="ger-DEU">High beam</AppName>
+		<AppName lc="gre-GRC">High beam</AppName>
+		<AppName lc="hun-HUN">High beam</AppName>
+		<AppName lc="ita-ITA">High beam</AppName>
+		<AppName lc="lav-LVA">High beam</AppName>
+		<AppName lc="lit-LTU">High beam</AppName>
+		<AppName lc="nob-NOR">High beam</AppName>
+		<AppName lc="pol-POL">High beam</AppName>
+		<AppName lc="por-BRA">High beam</AppName>
+		<AppName lc="por-PRT">High beam</AppName>
+		<AppName lc="rum-ROU">High beam</AppName>
+		<AppName lc="rus-RUS">High beam</AppName>
+		<AppName lc="slo-SVK">High beam</AppName>
+		<AppName lc="slv-SVN">High beam</AppName>
+		<AppName lc="spa-ESP">High beam</AppName>
+		<AppName lc="spa-MEX">High beam</AppName>
+		<AppName lc="swe-SWE">High beam</AppName>
+		<AppName lc="tur-TUR">High beam</AppName>
+		<AppName lc="scr-HRV">High beam</AppName>
+
+  </Application>
+</AppCom>

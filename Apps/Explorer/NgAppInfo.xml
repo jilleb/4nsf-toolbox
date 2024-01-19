@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<AppCom>
+  <Application Name="Explorer">
+    <Exe>\Windows\explorer.exe</Exe>
+    <Version>\My Flash Disk\Apps\Explorer\version.xml</Version>
+    <WindowName>Explorer</WindowName>
+    <ClassName>Explorer</ClassName>
+    <Port>27109</Port>
+
+    <IsVisible>1</IsVisible>
+    <Autostart>0</Autostart>
+    <IconName>\My Flash Disk\Apps\Explorer\icon_explorer-app.png</IconName>
+    
+		<AppName lc="ara-ARA">Windows Explorer</AppName>
+		<AppName lc="bul-BGR">Windows Explorer</AppName>
+		<AppName lc="afr-ZAF">Windows Explorer</AppName>
+		<AppName lc="eng-GBR">Windows Explorer</AppName>
+		<AppName lc="eng-USA">Windows Explorer</AppName>
+		<AppName lc="dan-DNK">Windows Explorer</AppName>
+		<AppName lc="cze-CZE">Windows Explorer</AppName>
+		<AppName lc="dut-BEL">Windows Explorer</AppName>
+		<AppName lc="dut-NLD">Windows Explorer</AppName>
+		<AppName lc="fin-FIN">Windows Explorer</AppName>
+		<AppName lc="fre-CAN">Windows Explorer</AppName>
+		<AppName lc="fre-FRA">Windows Explorer</AppName>
+		<AppName lc="ger-DEU">Windows Explorer</AppName>
+		<AppName lc="gre-GRC">Windows Explorer</AppName>
+		<AppName lc="hun-HUN">Windows Explorer</AppName>
+		<AppName lc="ita-ITA">Windows Explorer</AppName>
+		<AppName lc="lav-LVA">Windows Explorer</AppName>
+		<AppName lc="lit-LTU">Windows Explorer</AppName>
+		<AppName lc="nob-NOR">Windows Explorer</AppName>
+		<AppName lc="pol-POL">Windows Explorer</AppName>
+		<AppName lc="por-BRA">Windows Explorer</AppName>
+		<AppName lc="por-PRT">Windows Explorer</AppName>
+		<AppName lc="rum-ROU">Windows Explorer</AppName>
+		<AppName lc="rus-RUS">Windows Explorer</AppName>
+		<AppName lc="slo-SVK">Windows Explorer</AppName>
+		<AppName lc="slv-SVN">Windows Explorer</AppName>
+		<AppName lc="spa-ESP">Windows Explorer</AppName>
+		<AppName lc="spa-MEX">Windows Explorer</AppName>
+		<AppName lc="swe-SWE">Windows Explorer</AppName>
+		<AppName lc="tur-TUR">Windows Explorer</AppName>
+		<AppName lc="scr-HRV">Windows Explorer</AppName>
+
+  </Application>
+</AppCom>

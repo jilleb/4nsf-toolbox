@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<AppCom>
+  <Application Name="TotalCommander">
+    <Exe>\My Flash Disk\Apps\TotalCommander\tc.exe</Exe>
+    <Version>\My Flash Disk\Apps\TotalCommander\version.xml</Version>
+    <WindowName>TotalCommander</WindowName>
+    <ClassName>TotalCommander</ClassName>
+    <Port>27104</Port>
+
+    <IsVisible>1</IsVisible>
+    <Autostart>0</Autostart>
+    <IconName>\My Flash Disk\Apps\TotalCommander\icon_tc-app.png</IconName>
+    
+		<AppName lc="ara-ARA">Total Commander</AppName>
+		<AppName lc="bul-BGR">Total Commander</AppName>
+		<AppName lc="afr-ZAF">Total Commander</AppName>
+		<AppName lc="eng-GBR">Total Commander</AppName>
+		<AppName lc="eng-USA">Total Commander</AppName>
+		<AppName lc="dan-DNK">Total Commander</AppName>
+		<AppName lc="cze-CZE">Total Commander</AppName>
+		<AppName lc="dut-BEL">Total Commander</AppName>
+		<AppName lc="dut-NLD">Total Commander</AppName>
+		<AppName lc="fin-FIN">Total Commander</AppName>
+		<AppName lc="fre-CAN">Total Commander</AppName>
+		<AppName lc="fre-FRA">Total Commander</AppName>
+		<AppName lc="ger-DEU">Total Commander</AppName>
+		<AppName lc="gre-GRC">Total Commander</AppName>
+		<AppName lc="hun-HUN">Total Commander</AppName>
+		<AppName lc="ita-ITA">Total Commander</AppName>
+		<AppName lc="lav-LVA">Total Commander</AppName>
+		<AppName lc="lit-LTU">Total Commander</AppName>
+		<AppName lc="nob-NOR">Total Commander</AppName>
+		<AppName lc="pol-POL">Total Commander</AppName>
+		<AppName lc="por-BRA">Total Commander</AppName>
+		<AppName lc="por-PRT">Total Commander</AppName>
+		<AppName lc="rum-ROU">Total Commander</AppName>
+		<AppName lc="rus-RUS">Total Commander</AppName>
+		<AppName lc="slo-SVK">Total Commander</AppName>
+		<AppName lc="slv-SVN">Total Commander</AppName>
+		<AppName lc="spa-ESP">Total Commander</AppName>
+		<AppName lc="spa-MEX">Total Commander</AppName>
+		<AppName lc="swe-SWE">Total Commander</AppName>
+		<AppName lc="tur-TUR">Total Commander</AppName>
+		<AppName lc="scr-HRV">Total Commander</AppName>
+
+  </Application>
+</AppCom>

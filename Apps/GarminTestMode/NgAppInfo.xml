@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<AppCom>
+  <Application Name="Explorer">
+    <Exe>\Windows\GarminTestMode.exe</Exe>
+    <Version>\My Flash Disk\Apps\GarminTestMode\version.xml</Version>
+    <WindowName>GarminTestMode</WindowName>
+    <ClassName>GarminTestMode</ClassName>
+    <Port>27110</Port>
+
+    <IsVisible>1</IsVisible>
+    <Autostart>0</Autostart>
+    <IconName>\My Flash Disk\Apps\GarminTestMode\icon_test-app.png</IconName>
+    
+		<AppName lc="ara-ARA">Garmin Test Mode</AppName>
+		<AppName lc="bul-BGR">Garmin Test Mode</AppName>
+		<AppName lc="afr-ZAF">Garmin Test Mode</AppName>
+		<AppName lc="eng-GBR">Garmin Test Mode</AppName>
+		<AppName lc="eng-USA">Garmin Test Mode</AppName>
+		<AppName lc="dan-DNK">Garmin Test Mode</AppName>
+		<AppName lc="cze-CZE">Garmin Test Mode</AppName>
+		<AppName lc="dut-BEL">Garmin Test Mode</AppName>
+		<AppName lc="dut-NLD">Garmin Test Mode</AppName>
+		<AppName lc="fin-FIN">Garmin Test Mode</AppName>
+		<AppName lc="fre-CAN">Garmin Test Mode</AppName>
+		<AppName lc="fre-FRA">Garmin Test Mode</AppName>
+		<AppName lc="ger-DEU">Garmin Test Mode</AppName>
+		<AppName lc="gre-GRC">Garmin Test Mode</AppName>
+		<AppName lc="hun-HUN">Garmin Test Mode</AppName>
+		<AppName lc="ita-ITA">Garmin Test Mode</AppName>
+		<AppName lc="lav-LVA">Garmin Test Mode</AppName>
+		<AppName lc="lit-LTU">Garmin Test Mode</AppName>
+		<AppName lc="nob-NOR">Garmin Test Mode</AppName>
+		<AppName lc="pol-POL">Garmin Test Mode</AppName>
+		<AppName lc="por-BRA">Garmin Test Mode</AppName>
+		<AppName lc="por-PRT">Garmin Test Mode</AppName>
+		<AppName lc="rum-ROU">Garmin Test Mode</AppName>
+		<AppName lc="rus-RUS">Garmin Test Mode</AppName>
+		<AppName lc="slo-SVK">Garmin Test Mode</AppName>
+		<AppName lc="slv-SVN">Garmin Test Mode</AppName>
+		<AppName lc="spa-ESP">Garmin Test Mode</AppName>
+		<AppName lc="spa-MEX">Garmin Test Mode</AppName>
+		<AppName lc="swe-SWE">Garmin Test Mode</AppName>
+		<AppName lc="tur-TUR">Garmin Test Mode</AppName>
+		<AppName lc="scr-HRV">Garmin Test Mode</AppName>
+
+  </Application>
+</AppCom>

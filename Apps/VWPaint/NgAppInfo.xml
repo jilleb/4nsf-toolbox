@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<AppCom>
+  <Application Name="VwPaint">
+    <Exe>\My Flash Disk\Apps\VwPaint\VwPaint.exe</Exe>
+    <Version>\My Flash Disk\Apps\VwPaint\version.xml</Version>
+    <WindowName>VwPaint</WindowName>
+    <ClassName>VwPaint</ClassName>
+    <Port>27106</Port>
+
+    <IsVisible>1</IsVisible>
+    <Autostart>0</Autostart>
+    <IconName>\My Flash Disk\Apps\VwPaint\icon_notepad-app.png</IconName>
+		<AppName lc="ara-ARA">Notepad</AppName>
+		<AppName lc="bul-BGR">Notepad</AppName>
+		<AppName lc="afr-ZAF">Notepad</AppName>
+		<AppName lc="eng-GBR">Notepad</AppName>
+		<AppName lc="eng-USA">Notepad</AppName>
+		<AppName lc="dan-DNK">Notepad</AppName>
+		<AppName lc="cze-CZE">Notepad</AppName>
+		<AppName lc="dut-BEL">Notepad</AppName>
+		<AppName lc="dut-NLD">Notepad</AppName>
+		<AppName lc="fin-FIN">Notepad</AppName>
+		<AppName lc="fre-CAN">Notepad</AppName>
+		<AppName lc="fre-FRA">Notepad</AppName>
+		<AppName lc="ger-DEU">Notepad</AppName>
+		<AppName lc="gre-GRC">Notepad</AppName>
+		<AppName lc="hun-HUN">Notepad</AppName>
+		<AppName lc="ita-ITA">Notepad</AppName>
+		<AppName lc="lav-LVA">Notepad</AppName>
+		<AppName lc="lit-LTU">Notepad</AppName>
+		<AppName lc="nob-NOR">Notepad</AppName>
+		<AppName lc="pol-POL">Notepad</AppName>
+		<AppName lc="por-BRA">Notepad</AppName>
+		<AppName lc="por-PRT">Notepad</AppName>
+		<AppName lc="rum-ROU">Notepad</AppName>
+		<AppName lc="rus-RUS">Notepad</AppName>
+		<AppName lc="slo-SVK">Notepad</AppName>
+		<AppName lc="slv-SVN">Notepad</AppName>
+		<AppName lc="spa-ESP">Notepad</AppName>
+		<AppName lc="spa-MEX">Notepad</AppName>
+		<AppName lc="swe-SWE">Notepad</AppName>
+		<AppName lc="tur-TUR">Notepad</AppName>
+		<AppName lc="scr-HRV">Notepad</AppName>
+
+
+  </Application>
+</AppCom>
